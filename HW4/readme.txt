@@ -1,0 +1,1 @@
+This implementation of the AVL tree adds every word in a case sensitive manner. Therefore, for example Great is added in a different location than great. 
